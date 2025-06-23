@@ -1,7 +1,5 @@
 # Sales-Forecasting
 
-#Project 1-Sales Forecasting
-
 ## Overview
 The main objective of this project (e.g., predicting sales based on historical data).
 A brief explanation of the approaches used (VARMAX for multi-variable relationships, LSTM for complex time-series patterns).
@@ -15,7 +13,7 @@ Handling missing value and date.
 
 
 ## Tools & Technologies Used
-Environment: Google Colab / Jupyter Notebook / Local Python Environment.
+Environment: Jupyter Notebook.
 Modeling Tools:
 VARMAX using statsmodels.tsa.statespace.varmax.VARMAX
 LSTM using tensorflow.keras
